@@ -1,0 +1,11 @@
+com\recipe\servlet\DeleteRecipeServlet.class
+com\recipe\servlet\AboutServlet.class
+com\recipe\model\Recipe.class
+com\recipe\servlet\ViewRecipeServlet.class
+com\recipe\util\XMLUtil.class
+com\recipe\servlet\DashboardServlet.class
+com\recipe\dao\RecipeXMLRepository.class
+com\recipe\servlet\RecipeListServlet.class
+com\recipe\servlet\AddRecipeServlet.class
+com\recipe\servlet\EditRecipeServlet.class
+com\recipe\launcher\Main.class
